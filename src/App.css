@@ -16,7 +16,7 @@
 }
 
 .image-box {
-  background-image: url('./public/images/alternate-bg.jpg');
+  background-image: url('./public/images/bg-card.png');
   background-size: cover;
   width: 150px;
   height: 250px;
