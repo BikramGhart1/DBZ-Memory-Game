@@ -16,7 +16,7 @@
 }
 
 .image-box {
-  background-image: url('./public/images/alternate-bg.webp');
+  background-image: url('../public/images/alternate-bg.webp');
   background-size: cover;
   width: 150px;
   height: 250px;
