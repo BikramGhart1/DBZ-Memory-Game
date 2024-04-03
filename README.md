@@ -3,6 +3,9 @@
 This project is about testing your memory and mainly I made this project after learning about 
 basic reacts, props and state and useEffect hook. And I am implementing them to make this project succesful
 
+# live demo
+https://dragonballzmemorygame.netlify.app/
+
 #components
 I have made three components in /src/components, 
 1. HeaderComp.jsx
