@@ -4,7 +4,7 @@ This project is about testing your memory and mainly I made this project after l
 basic reacts, props and state and useEffect hook. And I am implementing them to make this project succesful
 
 # live demo
-https://dragonballzmemorygame.netlify.app/
+https://dbz-memory-game.pages.dev/
 
 #components
 I have made three components in /src/components, 
